@@ -1,4 +1,4 @@
-# OpenClaw Python v1
+# openclaw-pyv1
 
 A simple Python HelloWorld project.
 
