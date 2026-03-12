@@ -1,9 +1,34 @@
-# openclaw-pyv1
+# LeetCode 练习记录
 
-A simple Python HelloWorld project.
+我的 LeetCode 刷题记录仓库。
 
-## Run
+## 目录结构
 
-```bash
-python hello.py
 ```
+problems/
+├── 0001-two-sum/
+│   ├── solution.py
+│   └── README.md
+├── 0002-add-two-numbers/
+│   ├── solution.py
+│   └── README.md
+└── ...
+```
+
+## 进度统计
+
+| 难度 | 完成 |
+|------|------|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+
+## 题目列表
+
+| # | 题目 | 难度 | 解法 |
+|---|------|------|------|
+| - | - | - | - |
+
+---
+
+开始刷题！💪
